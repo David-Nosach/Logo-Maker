@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+                  <polygon points="150, 20 280, 180 20, 180" fill="YELLOW" />
+                  <text x="150" y="115" text-anchor="middle" alignment-baseline="middle" fill="GREEN" font-size="50">TOT</text>
+                </svg>

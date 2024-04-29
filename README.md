@@ -4,6 +4,8 @@
 
 Welcome to SVG Logo Generator! This command-line tool allows you to generate SVG logos with customizable text and shapes.
 
+Walkthrough Video: https://drive.google.com/file/d/1qtj9gL-A9Yo02tMewkY-GVihgjB-N0lA/view?usp=sharing
+
 ## Installation
 
 To use the SVG Logo Generator, follow these steps:
